@@ -10,6 +10,7 @@ This repository showcases my capstone project for the **Information Management**
 
 ## 📌 **Project Overview**  
 In this capstone project, I built an **end-to-end data pipeline** leveraging **Databricks, Azure Data Lake, and Snowflake** to process and analyze data. This project consisted of:
+
 ✅ Uploading files to **Databricks File System (DBFS)**  
 ✅ Building **ETL pipelines** to move data from **DBFS → Azure Data Lake → Snowflake**  
 ✅ Implementing **Medallion Architecture** (Raw, Silver, and Gold layers)  
