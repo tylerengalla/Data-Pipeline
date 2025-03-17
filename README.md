@@ -1,10 +1,45 @@
-# Data-Pipeline
-Capstone Project: Building a Data Pipeline with Databricks, Azure, and Snowflake
+# **Data Pipeline: Databricks, Azure, and Snowflake**  
 
-https://www.youtube.com/watch?v=wp40LIW6Tq4 
+**Capstone Project | Masters in Business Analytics | UT Austin**  
 
-In this capstone project, I built an end-to-end data pipeline using Databricks, Azure Data Lake, and Snowflake. The project involved uploading files to DBFS, creating data pipelines to move data into an Azure Data Lake, and implementing a Medallion architecture with Raw, Silver, and Gold layers in Snowflake. I also leveraged Snowpark in a Jupyter Notebook to perform analytical computations on the dataset.  
+This repository showcases my capstone project for the **Information Management** course in my **Master of Science in Business Analytics** program at the **University of Texas at Austin**.  
 
-For the analysis, I explored the 120 Years of Olympic History dataset from Kaggle, uncovering trends and insights about athletes and results over time.
+🔗 **Watch the full project walkthrough:** [YouTube Video](https://www.youtube.com/watch?v=wp40LIW6Tq4)  
 
-Watch as I demonstrate the full data engineering workflow, from ingestion to analysis.
+---
+
+## 📌 **Project Overview**  
+In this capstone project, I built an **end-to-end data pipeline** leveraging **Databricks, Azure Data Lake, and Snowflake** to process and analyze data. This project consisted of:
+✅ Uploading files to **Databricks File System (DBFS)**  
+✅ Building **ETL pipelines** to move data from **DBFS → Azure Data Lake → Snowflake**  
+✅ Implementing **Medallion Architecture** (Raw, Silver, and Gold layers)  
+✅ Using **Snowpark in Jupyter Notebook** for analytical computations  
+✅ Performing **data analysis** on the **120 Years of Olympic History dataset** from [Kaggle](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+
+---
+
+## 🏆 **Key Learnings**  
+Through this project and course, I gained hands-on experience with:  
+
+### 🔹 **Enterprise Data Management**  
+- Understanding how data is **stored, accessed, and managed** in enterprise systems  
+
+### 🔹 **SQL & Advanced Querying**  
+- Writing **efficient** SQL queries for **data extraction, transformation, and analysis**  
+
+### 🔹 **NoSQL & Distributed Systems**  
+- Exploring **non-relational databases** and **distributed computing architectures**  
+
+### 🔹 **Data Engineering with Databricks & Azure**  
+- Building **scalable** data pipelines with **Databricks** and **Azure Data Lake**  
+
+### 🔹 **Snowflake & Data Warehousing**  
+- Implementing a **Medallion architecture** (Raw, Silver, and Gold layers) in **Snowflake**  
+
+### 🔹 **Data Lakehouses & Analytics**  
+- Utilizing **Snowflake & Snowpark** for analytical computations and insights  
+
+
+
+
+
